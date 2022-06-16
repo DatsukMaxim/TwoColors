@@ -38,7 +38,6 @@
                             <constraint firstItem="6eP-yz-9vb" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="18" id="jZa-9y-buG"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="6eP-yz-9vb" secondAttribute="trailing" constant="18" id="m9f-IG-EGX"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="REo-3C-x1A" secondAttribute="bottom" constant="18" id="uUy-vE-1H1"/>
-                            <constraint firstItem="REo-3C-x1A" firstAttribute="width" secondItem="6eP-yz-9vb" secondAttribute="width" id="x9e-yP-RxS"/>
                         </constraints>
                     </view>
                 </viewController>
